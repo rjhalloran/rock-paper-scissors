@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Roboto, Ubuntu, sans-serif;
+}
+
+h1 {
+    padding: 16px;
+    font-size: 48px;
+}
+
+section {
+    width: 800px;
+    padding: 32px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+img  {
+    width: 200px;
+}
